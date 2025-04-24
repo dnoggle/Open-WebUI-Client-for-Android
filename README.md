@@ -22,7 +22,7 @@ This client acts as a WebView wrapper around the Open WebUI web application, all
 
 ## 📦 Installation
 
-You can download the latest APK from the [Releases](https://github.com/your-username/Open-WebUI-Client-for-Android/releases) page.
+You can download the latest APK from the [Releases](https://github.com/Maticcm/Open-WebUI-Client-for-Android/releases) page.
 
 > 📌 **Note:** Make sure you already have an instance of Open WebUI running and accessible from your Android device.
 
