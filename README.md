@@ -48,3 +48,10 @@ This project is licensed under the MIT License.
 Open WebUI – for the awesome backend
 
 You – for using this client ❤️
+
+<!-- Ko-fi Donation Button -->
+<p align="center">
+  <a href="https://ko-fi.com/maticcukimikeln" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" />
+  </a>
+</p>
