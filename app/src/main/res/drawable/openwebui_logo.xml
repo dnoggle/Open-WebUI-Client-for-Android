@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- O letter -->
+    <path
+        android:fillColor="@color/primary"
+        android:pathData="M30,25 A20,20 0 1,0 30,75 A20,20 0 1,0 30,25 M30,35 A10,10 0 1,1 30,65 A10,10 0 1,1 30,35"/>
+
+    <!-- I letter -->
+    <path
+        android:fillColor="@color/primary"
+        android:pathData="M60,25 h10 v50 h-10 v-50"/>
+
+</vector> 
