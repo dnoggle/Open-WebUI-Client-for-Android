@@ -56,9 +56,10 @@ You – for using this client ❤️
 ### How do I change the URL?
 Hold with 4 fingers on the screen for 3 seconds to open the URL change menu.
 
-<!-- Ko-fi Donation Button -->
+
 <p align="center">
-  <a href="https://ko-fi.com/maticcukimikeln" target="_blank">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" />
+  <a href="https://ko-fi.com/A0A21DU6O9" target="_blank">
+    <img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_red.png" alt="ko-fi" width="300">
   </a>
 </p>
+
