@@ -56,10 +56,15 @@ You – for using this client ❤️
 ### How do I change the URL?
 Hold with 4 fingers on the screen for 3 seconds to open the URL change menu.
 
-
 <p align="center">
   <a href="https://ko-fi.com/A0A21DU6O9" target="_blank">
     <img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_red.png" alt="ko-fi" width="300">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/Ud5ZMbdFht" target="_blank">
+    <img src="https://img.shields.io/badge/Join_the_Community-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" width="200">
   </a>
 </p>
 
