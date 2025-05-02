@@ -39,7 +39,7 @@ You can download the latest APK from the [Releases](https://github.com/Maticcm/O
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the  GPL-3.0 license.
 
 ---
 
